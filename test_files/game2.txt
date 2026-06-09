@@ -1,0 +1,5 @@
+4 4 0
+EN CN SN CN 
+NN TN NN SN 
+EN NN TN CN 
+EN EN NN EN 

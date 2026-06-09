@@ -1,0 +1,7 @@
+URL de notre ren : https://paul-henri-kouakou.emi.u-bordeaux.fr/pt2-prof-phamgb25/
+
+Commentaires :
+- Nous avons affiché un jeu 4x4 avec mélange initial car notre solveur ne peux resoudre que des jeux en 4*4 ou inferieur 
+- Le bouton "Restart" restaure l'état initial avant les coup joués 
+- Le canvas est centré et responsive
+- Clé aléatoire utilisée : phamgb25
