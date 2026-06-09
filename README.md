@@ -37,6 +37,23 @@ cd build
 
 Si la fenêtre SDL ne s’ouvre pas correctement dans votre terminal, utilisez d’abord la version texte.
 
+### Version web sur serveur
+
+La version web est disponible dans le dossier [web/](web/). Pour la tester dans un navigateur, démarrez un petit serveur local :
+
+```sh
+cd web
+python3 -m http.server 8080
+```
+
+Puis ouvrez :
+
+```text
+http://127.0.0.1:8080/game.html
+```
+
+Cette interface utilise la version WebAssembly du projet et peut aussi être déployée sur un serveur web standard.
+
 ## Tests
 
 ```sh
