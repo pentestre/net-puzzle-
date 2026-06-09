@@ -1,5 +1,6 @@
 .vscode/
 build/
+built/
 game_test_ambakounzous
 Testing/
 
